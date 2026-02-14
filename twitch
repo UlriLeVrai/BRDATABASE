@@ -1,4 +1,3 @@
-<script id="playerData" type="application/json">
 [
 {"id": "PLAYER001", "twitch": "AngeCeleste"},
 {"id": "PLAYER002", "twitch": "KrwaKrwa"},
@@ -254,4 +253,3 @@
 {"id": "PLAYER267", "twitch": "kwixy"}
 
 ]
-</script>
